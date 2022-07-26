@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vQEWKBSXQ5uKQGGt2P+8RlIUU41+fEvHBma94IdZ8RsxE/rYKijBW9+Ktp/3ZrZUwaNl1JSA4khsoI5e0cxZGA==",
+  "dgSpecHash": "dYOBZnjDeK895Rw7Dt+s9A382kQOpuewZUBS6kmGxZCi68UxHfrTko+roSBL0L7MKxYkPs8AnKLD4+kz+ec8EQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\deviv\\OneDrive\\Documentos\\Curso .NET Udemy\\Pedidos\\Pedidos.Domain\\Pedidos.Domain.csproj",
+  "projectFilePath": "C:\\Proyecto_personal\\Back\\Pedidos\\Pedidos.Domain\\Pedidos.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\deviv\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\deviv\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

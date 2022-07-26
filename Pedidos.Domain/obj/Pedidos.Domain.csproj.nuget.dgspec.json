@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deviv\\OneDrive\\Documentos\\Curso .NET Udemy\\Pedidos\\Pedidos.Domain\\Pedidos.Domain.csproj": {}
+    "C:\\Proyecto_personal\\Back\\Pedidos\\Pedidos.Domain\\Pedidos.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deviv\\OneDrive\\Documentos\\Curso .NET Udemy\\Pedidos\\Pedidos.Domain\\Pedidos.Domain.csproj": {
+    "C:\\Proyecto_personal\\Back\\Pedidos\\Pedidos.Domain\\Pedidos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deviv\\OneDrive\\Documentos\\Curso .NET Udemy\\Pedidos\\Pedidos.Domain\\Pedidos.Domain.csproj",
+        "projectUniqueName": "C:\\Proyecto_personal\\Back\\Pedidos\\Pedidos.Domain\\Pedidos.Domain.csproj",
         "projectName": "Pedidos.Domain",
-        "projectPath": "C:\\Users\\deviv\\OneDrive\\Documentos\\Curso .NET Udemy\\Pedidos\\Pedidos.Domain\\Pedidos.Domain.csproj",
+        "projectPath": "C:\\Proyecto_personal\\Back\\Pedidos\\Pedidos.Domain\\Pedidos.Domain.csproj",
         "packagesPath": "C:\\Users\\deviv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deviv\\OneDrive\\Documentos\\Curso .NET Udemy\\Pedidos\\Pedidos.Domain\\obj\\",
+        "outputPath": "C:\\Proyecto_personal\\Back\\Pedidos\\Pedidos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deviv\\AppData\\Roaming\\NuGet\\NuGet.Config",
