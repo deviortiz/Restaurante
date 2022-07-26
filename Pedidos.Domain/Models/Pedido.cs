@@ -12,6 +12,5 @@ namespace Pedidos.Domain.Models
         public string DescripcionPedido { get; set; }
         public DateTime CreatedDate { get; set; } = DateTime.Now;
         public int Cantidad { get; set; }
-        public string valor { get; set; }
     }
 }
