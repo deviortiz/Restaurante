@@ -1,0 +1,12 @@
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Domain\bin\Debug\net6.0\Pedidos.Domain.deps.json
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Domain\bin\Debug\net6.0\Pedidos.Domain.dll
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Domain\bin\Debug\net6.0\ref\Pedidos.Domain.dll
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Domain\bin\Debug\net6.0\Pedidos.Domain.pdb
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Domain\obj\Debug\net6.0\Pedidos.Domain.csproj.AssemblyReference.cache
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Domain\obj\Debug\net6.0\Pedidos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Domain\obj\Debug\net6.0\Pedidos.Domain.AssemblyInfoInputs.cache
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Domain\obj\Debug\net6.0\Pedidos.Domain.AssemblyInfo.cs
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Domain\obj\Debug\net6.0\Pedidos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Domain\obj\Debug\net6.0\Pedidos.Domain.dll
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Domain\obj\Debug\net6.0\ref\Pedidos.Domain.dll
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Domain\obj\Debug\net6.0\Pedidos.Domain.pdb

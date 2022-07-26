@@ -1,0 +1,17 @@
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Infraestructure.Data\bin\Debug\net6.0\Pedidos.Infraestructure.Data.deps.json
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Infraestructure.Data\bin\Debug\net6.0\Pedidos.Infraestructure.Data.dll
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Infraestructure.Data\bin\Debug\net6.0\ref\Pedidos.Infraestructure.Data.dll
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Infraestructure.Data\bin\Debug\net6.0\Pedidos.Infraestructure.Data.pdb
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Infraestructure.Data\bin\Debug\net6.0\Pedidos.Application.dll
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Infraestructure.Data\bin\Debug\net6.0\Pedidos.Domain.dll
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Infraestructure.Data\bin\Debug\net6.0\Pedidos.Application.pdb
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Infraestructure.Data\bin\Debug\net6.0\Pedidos.Domain.pdb
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Infraestructure.Data\obj\Debug\net6.0\Pedidos.Infraestructure.Data.csproj.AssemblyReference.cache
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Infraestructure.Data\obj\Debug\net6.0\Pedidos.Infraestructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Infraestructure.Data\obj\Debug\net6.0\Pedidos.Infraestructure.Data.AssemblyInfoInputs.cache
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Infraestructure.Data\obj\Debug\net6.0\Pedidos.Infraestructure.Data.AssemblyInfo.cs
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Infraestructure.Data\obj\Debug\net6.0\Pedidos.Infraestructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Infraestructure.Data\obj\Debug\net6.0\Pedidos.Infraestructure.Data.csproj.CopyComplete
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Infraestructure.Data\obj\Debug\net6.0\Pedidos.Infraestructure.Data.dll
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Infraestructure.Data\obj\Debug\net6.0\ref\Pedidos.Infraestructure.Data.dll
+C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Infraestructure.Data\obj\Debug\net6.0\Pedidos.Infraestructure.Data.pdb

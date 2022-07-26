@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zc+0FdHXZXnJnhnK0XbczLzDRUxXojyzQ1WEskrjsl8=",
+  "Source": "Pedidos.Infraestructure.Api",
+  "BasePath": "_content/Pedidos.Infraestructure.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
