@@ -16,43 +16,43 @@ namespace Pedidos.Infraestructure.Data.Repositories
 
         public PedidoRepository(PedidoContext Db) => db = Db;
 
-        public int CreatePedido(PedidoDTO pedidoDTO)
+        public Guid CreatePedido(PedidoDTO pedidoDTO)
         {
             try
             {
                 Pedido pedido = new Pedido();
-                pedido.Id = pedidoDTO.Id;
+                pedido.PedidoId = pedidoDTO.PedidoId;
                 pedido.DescripcionPedido = pedidoDTO.DescripcionPedido;
                 pedido.Cantidad = pedidoDTO.Cantidad;
-                pedido.CreatedDate = DateTime.Now;
+                pedido.FechaHora = DateTime.Now;
 
                 db.Pedidos.Add(pedido);
                 db.SaveChanges();
 
-                return pedido.Id;
+                return pedido.PedidoId;
             }
             catch(Exception) {
-                return 0;
+                throw;
             }                      
         }
 
-        public PedidoDTO GetPedido(int PedidoId)
+        public PedidoDTO GetPedido(Guid PedidoId)
         {
             try
             {
-                Pedido pedido = db.Pedidos.FirstOrDefault(c => c.Id.Equals(PedidoId));
+                Pedido pedido = db.Pedidos.FirstOrDefault(c => c.PedidoId.Equals(PedidoId));
                 PedidoDTO pedidoDTO = new PedidoDTO()
                 {
-                    Id = pedido.Id,
+                    PedidoId = pedido.PedidoId,
                     DescripcionPedido = pedido.DescripcionPedido,
                     Cantidad = pedido.Cantidad,
-                    CreatedDate = pedido.CreatedDate
+                    CreatedDate = pedido.FechaHora
                 };
                 return pedidoDTO;
             }
             catch (Exception ex)
             {
-                return null;
+                throw;
             }
            
         }
@@ -61,27 +61,27 @@ namespace Pedidos.Infraestructure.Data.Repositories
         {
             
               return (from d in db.Pedidos
-                    select new PedidoDTO { Id = d.Id, DescripcionPedido = d.DescripcionPedido, CreatedDate = d.CreatedDate, Cantidad= d.Cantidad }).ToList();
+                    select new PedidoDTO { PedidoId = d.PedidoId, DescripcionPedido = d.DescripcionPedido, CreatedDate = d.FechaHora, Cantidad= d.Cantidad }).ToList();
         }
 
 
-        public int UpdatePedido(PedidoDTO pedidoDTO)
+        public Guid UpdatePedido(PedidoDTO pedidoDTO)
         {
             try
             {
-                Pedido pedido = db.Pedidos.FirstOrDefault(c => c.Id.Equals(pedidoDTO.Id));
+                Pedido pedido = db.Pedidos.FirstOrDefault(c => c.PedidoId.Equals(pedidoDTO.PedidoId));
                 pedido.DescripcionPedido = pedidoDTO.DescripcionPedido;
                 pedido.Cantidad = pedidoDTO.Cantidad;
-                pedido.CreatedDate = DateTime.Now;
+                pedido.FechaHora = DateTime.Now;
 
                 db.Pedidos.Update(pedido);
                 db.SaveChanges();
 
-                return pedido.Id;
+                return pedido.PedidoId;
             }
             catch (Exception)
             {
-                return 0;
+                throw;
             }            
 
         }

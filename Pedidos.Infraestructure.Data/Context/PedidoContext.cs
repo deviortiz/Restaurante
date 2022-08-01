@@ -19,6 +19,8 @@ namespace Pedidos.Infraestructure.Data.Context
         readonly string PASSWORDDB = "Camila2020.";
 
         public DbSet<Pedido> Pedidos { get; set; }
+        public DbSet<Mesa> Mesas { get; set; }
+        public DbSet<Mesera> Meserras { get; set; }
 
 
         public PedidoContext()
@@ -36,6 +38,8 @@ namespace Pedidos.Infraestructure.Data.Context
             base.OnModelCreating(builder);
 
             builder.ApplyConfiguration(new PedidoConfig());
+            builder.ApplyConfiguration(new MesaConfig());
+            builder.ApplyConfiguration(new MeseraConfig());
         }
         }
 }

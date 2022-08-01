@@ -14,8 +14,15 @@ namespace Pedidos.Infraestructure.Data.Configs
         public void Configure(EntityTypeBuilder<Pedido> builder)
         {
             builder.ToTable("Pedido");
-            builder.HasKey(c => c.Id);
+            builder.HasKey(c => c.PedidoId);
 
+            builder
+            .HasMany(Pedido => Pedido.Mesas)
+            .WithOne(Mesa => Mesa.Pedido);
+
+            builder
+            .HasMany(Pedido => Pedido.Meseras)
+            .WithOne(Mesera => Mesera.Pedido);
         }
     }
 }

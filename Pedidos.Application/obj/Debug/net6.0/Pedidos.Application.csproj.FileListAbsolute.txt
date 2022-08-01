@@ -13,3 +13,18 @@ C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Application\
 C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Application\obj\Debug\net6.0\Pedidos.Application.dll
 C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Application\obj\Debug\net6.0\ref\Pedidos.Application.dll
 C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Application\obj\Debug\net6.0\Pedidos.Application.pdb
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Application\bin\Debug\net6.0\Pedidos.Application.deps.json
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Application\bin\Debug\net6.0\Pedidos.Application.dll
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Application\bin\Debug\net6.0\ref\Pedidos.Application.dll
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Application\bin\Debug\net6.0\Pedidos.Application.pdb
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Application\bin\Debug\net6.0\Pedidos.Domain.dll
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Application\bin\Debug\net6.0\Pedidos.Domain.pdb
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Application\obj\Debug\net6.0\Pedidos.Application.csproj.AssemblyReference.cache
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Application\obj\Debug\net6.0\Pedidos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Application\obj\Debug\net6.0\Pedidos.Application.AssemblyInfoInputs.cache
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Application\obj\Debug\net6.0\Pedidos.Application.AssemblyInfo.cs
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Application\obj\Debug\net6.0\Pedidos.Application.csproj.CoreCompileInputs.cache
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Application\obj\Debug\net6.0\Pedidos.Application.csproj.CopyComplete
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Application\obj\Debug\net6.0\Pedidos.Application.dll
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Application\obj\Debug\net6.0\ref\Pedidos.Application.dll
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Application\obj\Debug\net6.0\Pedidos.Application.pdb

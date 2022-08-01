@@ -18,12 +18,12 @@ namespace Pedidos.Application.Services
             repo = _repo;
         }
 
-        public int CreatePedido(PedidoDTO pedidoDTO)
+        public Guid CreatePedido(PedidoDTO pedidoDTO)
         {
             return repo.CreatePedido(pedidoDTO);
         }
 
-        public PedidoDTO GetPedido(int PedidoId)
+        public PedidoDTO GetPedido(Guid PedidoId)
         {
            return repo.GetPedido(PedidoId);
         }
@@ -33,7 +33,7 @@ namespace Pedidos.Application.Services
             return repo.List();           
         }
 
-        public int UpdatePedido(PedidoDTO pedidoDTO)
+        public Guid UpdatePedido(PedidoDTO pedidoDTO)
         {
             return repo.UpdatePedido(pedidoDTO);
         }

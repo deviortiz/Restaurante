@@ -10,3 +10,15 @@ C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Domain\obj\D
 C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Domain\obj\Debug\net6.0\Pedidos.Domain.dll
 C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Domain\obj\Debug\net6.0\ref\Pedidos.Domain.dll
 C:\Users\deviv\OneDrive\Documentos\Curso .NET Udemy\Pedidos\Pedidos.Domain\obj\Debug\net6.0\Pedidos.Domain.pdb
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Domain\bin\Debug\net6.0\Pedidos.Domain.deps.json
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Domain\bin\Debug\net6.0\Pedidos.Domain.dll
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Domain\bin\Debug\net6.0\ref\Pedidos.Domain.dll
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Domain\bin\Debug\net6.0\Pedidos.Domain.pdb
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Domain\obj\Debug\net6.0\Pedidos.Domain.csproj.AssemblyReference.cache
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Domain\obj\Debug\net6.0\Pedidos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Domain\obj\Debug\net6.0\Pedidos.Domain.AssemblyInfoInputs.cache
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Domain\obj\Debug\net6.0\Pedidos.Domain.AssemblyInfo.cs
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Domain\obj\Debug\net6.0\Pedidos.Domain.csproj.CoreCompileInputs.cache
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Domain\obj\Debug\net6.0\Pedidos.Domain.dll
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Domain\obj\Debug\net6.0\ref\Pedidos.Domain.dll
+C:\Proyecto_personal\Back\Pedidos\Pedidos.Domain\obj\Debug\net6.0\Pedidos.Domain.pdb

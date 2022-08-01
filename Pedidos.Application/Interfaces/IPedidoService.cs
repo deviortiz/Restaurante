@@ -11,9 +11,9 @@ namespace Pedidos.Application.Interfaces
     {
         public List<PedidoDTO> List();
 
-        public PedidoDTO GetPedido(int PedidoId);
+        public PedidoDTO GetPedido(Guid PedidoId);
 
-        public int UpdatePedido(PedidoDTO pedidoDTO);
-        public int CreatePedido(PedidoDTO pedidoDTO);
+        public Guid UpdatePedido(PedidoDTO pedidoDTO);
+        public Guid CreatePedido(PedidoDTO pedidoDTO);
     }
 }

@@ -29,7 +29,7 @@ namespace Pedidos.Infraestructure.Api.Controllers
         }
 
         [HttpGet("{pedidoId:int}")]
-        public Task<PedidoDTO> GetPedido(int pedidoId)
+        public Task<PedidoDTO> GetPedido(Guid pedidoId)
         {
             PedidoService service = CreateService();
             PedidoDTO pedidoDTO = service.GetPedido(pedidoId);
@@ -37,19 +37,19 @@ namespace Pedidos.Infraestructure.Api.Controllers
         }
 
         [HttpPost("Actualizar")]
-        public Task<int> UpdatePedido([FromBody] PedidoDTO pedido) {
+        public Task<Guid> UpdatePedido([FromBody] PedidoDTO pedido) {
             PedidoService service = CreateService();
-            int pedidoId = service.UpdatePedido(pedido);
+            Guid pedidoId = service.UpdatePedido(pedido);
 
             return Task.FromResult(pedidoId);
         }
 
         [HttpPost("Crear")]
-        public Task<int> CreatePedido([FromBody] PedidoDTO pedido)
+        public Task<Guid> CreatePedido([FromBody] PedidoDTO pedido)
         {
             PedidoService service = CreateService();
             service.CreatePedido(pedido);
-            return Task.FromResult(pedido.Id);
+            return Task.FromResult(pedido.PedidoId);
         }
     }
 }
